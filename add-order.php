@@ -299,8 +299,8 @@ $n="INV-000";
             <div class="col-sm-4">
               <select class="form-control" name="paymentPlace" id="paymentPlace">
                 <option value="">~~SELECT~~</option>
-                <option value="1">In India</option>
-                <option value="2">Out Of India</option>
+                <option value="1">In Tunisia</option>
+                <option value="2">Out Of Tunisia</option>
               </select>
             </div>
                                                </div>
