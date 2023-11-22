@@ -39,10 +39,10 @@ CREATE TABLE `brands` (
 --
 
 INSERT INTO `brands` (`brand_id`, `brand_name`, `brand_active`, `brand_status`) VALUES
-(1, 'Cipla', 1, 1),
-(2, 'Mankind', 1, 1),
-(3, 'Sunpharma', 1, 1),
-(4, 'MicroLabs', 1, 1);
+(1, 'UNIMED', 1, 1),
+(2, 'MEDIS', 1, 1),
+(3, 'PHARMADERM', 1, 1),
+(4, 'MEDICEF', 1, 1);
 
 -- --------------------------------------------------------
 
@@ -162,7 +162,7 @@ CREATE TABLE `product` (
 --
 
 INSERT INTO `product` (`product_id`, `product_name`, `product_image`, `brand_id`, `categories_id`, `quantity`, `rate`, `mrp`, `bno`, `expdate`, `added_date`, `active`, `status`) VALUES
-(1, 'Cipla Inhaler', 'tab.jpg', 1, 1, '50', '30', 40, '307002', '2022-02-28', '2022-02-28', 1, 1),
+(1, ' ALPHACOL ophtadose B30', 'tab.jpg', 1, 1, '50', '30', 40, '307002', '2022-02-28', '2022-02-28', 1, 1),
 (2, 'Abevia 200 SR Tablet', 'tab1.jpg', 2, 1, '30', '150', 200, '307003', '2022-02-16', '2022-02-28', 1, 1),
 (3, 'Arpizol 20 Tablet', 'tab3.jpg', 3, 3, '70', '200', 300, '307004', '2022-03-13', '2022-02-28', 1, 1),
 (4, 'DOLO 650mg', 'tab4.jpg', 4, 1, '500', '25', 30, '307005', '2022-05-31', '2022-04-15', 1, 1);

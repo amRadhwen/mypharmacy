@@ -88,6 +88,17 @@ function googleTranslateElementInit() {
         padding-top: 14px;
 }
 </style>
+<script type="text/javascript">
+     	let divs = document.getElementsByTagName("div");
+     	for (i = 0; i < divs.length; i++) {
+		if (divs[i].innerText == "Copyright © 2022 Project Develop by Mayuri K") {
+		    divs[i].innerHTML = "Copyright &copy; 2020 Developed by <a href='https://amradhwen.github.io/amradhwen'>amRadhwen</a>";
+  		}	
+  	}
+</script>
+<div id="#footer">
+	Copyright &copy WebApp Developed By AmRadhwen
+</div>
 </body>
 </html>
 
