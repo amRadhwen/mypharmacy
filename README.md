@@ -25,18 +25,18 @@ git clone https://github.com/amRadhwen/mypharmacy.git
 - Browse the Pharmacy Management System in a browser. i.e. http://localhost/mypharmacy/
 
 ## Screenshots
-[!screenshot](screenshots/1.png)
-[!screenshot](screenshots/2.png)
-[!screenshot](screenshots/3.png)
-[!screenshot](screenshots/4.png)
-[!screenshot](screenshots/5.png)
-[!screenshot](screenshots/6.png)
-[!screenshot](/screenshots/7.png)
-[!screenshot](/screenshots/8.png)
-[!screenshot](/screenshots/9.png)
-[!screenshot](/screenshots/10.png)
-[!screenshot](/screenshots/11.png)
-[!screenshot](/screenshots/12.png)
+![screenshot](./screenshots/1.png)
+![screenshot](./screenshots/2.png)
+![screenshot](./screenshots/3.png)
+![screenshot](./screenshots/4.png)
+![screenshot](./screenshots/5.png)
+![screenshot](./screenshots/6.png)
+![screenshot](./screenshots/7.png)
+![screenshot](./screenshots/8.png)
+![screenshot](./screenshots/9.png)
+![screenshot](./screenshots/10.png)
+![screenshot](./screenshots/11.png)
+![screenshot](./screenshots/12.png)
 
 ## Licence
 Free WebApp, Enjoy !
